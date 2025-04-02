@@ -37,10 +37,15 @@
 ## 🔬 Methodology
 📌 **Step-by-Step Approach:**
 1️⃣ **📥 Data Preparation** → Load datasets & handle missing values.
+
 2️⃣ **📊 Descriptive Statistics** → Compute mean, variance & distributions.
+
 3️⃣ **📑 ANOVA Analysis** → Test for statistically significant differences.
+
 4️⃣ **🔢 Regression Modeling** → Fit models to predict dependent variables.
+
 5️⃣ **🔗 Correlation Analysis** → Identify key relationships between variables.
+
 6️⃣ **📌 Interpretation & Recommendations** → Summarize insights & suggest improvements.
 
 ---
